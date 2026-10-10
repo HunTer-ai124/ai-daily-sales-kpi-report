@@ -20,6 +20,6 @@ Edit the **Settings** node: company name, sheet link, column names, currency, re
 - The report still sends with the KPI table if the AI fails
 
 ## Demo
-[Watch the demo video](https://youtu.be/KCkRj9gYkjc))
+[Watch the demo video]([https://youtu.be/KCkRj9gYkjc))
 
 Built during my data analytics training at 10Alytics.
